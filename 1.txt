@@ -1,3 +1,5 @@
 This is first test.
 
 This is second test.
+
+This is third test from the branch.
